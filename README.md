@@ -1,4 +1,4 @@
 # vr-landing-starter
-React
-Tailwind CSS
-React icons
+React<br/>
+Tailwind CSS<br/>
+React icons<br/>
