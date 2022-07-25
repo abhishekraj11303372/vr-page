@@ -1,7 +1,5 @@
 import React from 'react';
 
-import User from './Users'
-
 import Img from '../assets/img/banner-img.png'
 import Users from './Users';
 
