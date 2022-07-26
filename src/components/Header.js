@@ -13,7 +13,7 @@ const Header = ({setNavMobile}) => {
             <img className='h-[30px]' src={Logo} alt='logo'/>
             </a>
             <Nav />
-            <HiMenu onClick={() => setNavMobile(false)} className='lg:hidden text-3xl text-white cursor-pointer' />
+            <HiMenu onClick={() => setNavMobile(true)} className='lg:hidden text-3xl text-white cursor-pointer' />
         </div>
       </div>
     </header>
