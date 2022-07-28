@@ -3,8 +3,10 @@ import React, { useState } from 'react';
 import Banner from './components/Banner'
 import Experience from './components/Experience';
 import Header from './components/Header'
+import Headsets from './components/Headsets';
 import NavMobile from './components/NavMobile'
 import Video from './components/Video';
+import Testimonial from './components/Testimonial';
 
 const App = () => {
   const [navMobile, setNavMobile] = useState(false);
@@ -19,6 +21,8 @@ const App = () => {
     </div>
     <Experience />
     <Video />
+    <Headsets />
+    <Testimonial />
   </div>
   );
 };
