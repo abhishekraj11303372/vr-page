@@ -11,7 +11,7 @@ const Testimonial = () => {
             <h2 className='text-3xl font-bold mb-6'>What our clients say</h2>
             <p className='max-w-2xl mx-auto mb-12 lg:mb-24'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem, deserunt! Nemo officiis doloremque, ipsa accusantium ullam odio. Blanditiis nostrum ut labore, nobis autem rem alias accusamus. Distinctio recusandae quibusdam consectetur?</p>
           </div>
-          <div className='bg-pink'>
+          <div className=''>
             <TestimonialSlider />
           </div>
         </div>
