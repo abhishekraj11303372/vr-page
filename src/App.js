@@ -7,6 +7,7 @@ import Headsets from './components/Headsets';
 import NavMobile from './components/NavMobile'
 import Video from './components/Video';
 import Testimonial from './components/Testimonial';
+import Explore from './components/Explore';
 
 const App = () => {
   const [navMobile, setNavMobile] = useState(false);
@@ -23,6 +24,7 @@ const App = () => {
     <Video />
     <Headsets />
     <Testimonial />
+    <Explore />
   </div>
   );
 };
